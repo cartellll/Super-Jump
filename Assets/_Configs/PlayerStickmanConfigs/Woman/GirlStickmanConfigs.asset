@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308f3d8cec698ff44958ccb08bc35ee2, type: 3}
+  m_Name: GirlStickmanConfigs
+  m_EditorClassIdentifier: 
+  playerStickmanConfigs:
+  - {fileID: 11400000, guid: d6ebe95418f2cc545a00730141e67964, type: 2}
+  - {fileID: 11400000, guid: 23771c07a6f4b944f8b262b8ce3f6c9f, type: 2}
+  - {fileID: 11400000, guid: b4d9b712f49b24b4f98024bdb103b0b3, type: 2}
+  - {fileID: 11400000, guid: a2a61d0356fb62942a8c468a7fefc801, type: 2}
+  - {fileID: 11400000, guid: 5dc3aef029929f94eb41d20b25d58d76, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba73ec15f97f75f4a8c8cdfe3a011c96, type: 3}
+  m_Name: PurpleStickman
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 578395516078714124, guid: 608beda705d554fb2b44d567e5312724, type: 3}
+  size: 2
+  scale: 1.2
+  material: {fileID: 2100000, guid: 42adf23fc4162432c868bc5ed1a611e9, type: 2}
+  lineMaterial: {fileID: 2100000, guid: 1e5ffb15342994baa9ae6540e6b10b0f, type: 2}
+  speed: 800
+  hp: 8
+  damage: 4
+  playerStickmanMergeEffect: {fileID: 183846, guid: 75e4885e106554e029d0c8da7418c37b,
+    type: 3}

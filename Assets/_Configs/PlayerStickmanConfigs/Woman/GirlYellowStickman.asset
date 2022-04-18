@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba73ec15f97f75f4a8c8cdfe3a011c96, type: 3}
+  m_Name: GirlYellowStickman
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5659054161224198009, guid: 9ed9afb0e641b1847953d7d2e7e5238a, type: 3}
+  size: 1
+  scale: 0.4
+  material: {fileID: 2100000, guid: 4c852df24fb434272bdf3da4f8e73743, type: 2}
+  lineMaterial: {fileID: 2100000, guid: 273ffce3af24d49f1956368a4223a883, type: 2}
+  speed: 900
+  hp: 4
+  damage: 3
+  playerStickmanMergeEffect: {fileID: 183846, guid: a3e77c3843ec04b788bb9e26bb1cf634,
+    type: 3}
